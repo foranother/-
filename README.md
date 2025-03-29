@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # Description
 
 긴 맥락 대화에서의 감정인식을 위한 확장형 트랜스포머 소프트웨어
